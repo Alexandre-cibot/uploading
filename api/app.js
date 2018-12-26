@@ -10,7 +10,7 @@ const storage = multer.diskStorage({
   destination: './uploads',
   filename: (req, file, cb) => {
     const date = new Date().toLocaleDateString()
-    cb(null, `(${date})-${file.originalname}`)
+    cb(null, file.originalname)
   }
 })
 
