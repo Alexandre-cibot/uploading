@@ -18,8 +18,13 @@ Front-end: JavaScript, React, Axios
 
 ### How to use ?
 
+_Back-end_
+- Install dependencies    
+Move to `./api` and launch `yarn`
 - Launch the Server   
-Move to `./api` and launch `yarn start`
+Launch `yarn start`
 
-- Launch the Front    
-Move to `./front` and launch `yarn start`
+_Front-end_
+- Install dependencies    
+Move to `./front` and launch `yarn`
+- Launch `yarn start`
