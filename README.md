@@ -16,5 +16,10 @@ Axios also provide a way to abort a request.
 Back-end: Nodejs, Express          
 Front-end: JavaScript, React, Axios
 
+### How to use ?
 
+- Launch the Server   
+Move to `./api` and launch `yarn start`
 
+- Launch the Front    
+Move to `./front` and launch `yarn start`
